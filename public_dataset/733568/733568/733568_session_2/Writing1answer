@@ -1,0 +1,3 @@
+Question: Describe what you did last weekend.
+Answer:
+im working on a journal paper summision. the paper is about compiler reseach. more specifically, im trying to improve the perfomance of feedback driven optimization in compiler. feedback driven optimization is a technique that consists of two steps. in the first step, the compiler will instruments the program. A run of the produced executable will generate a profile, which records the program dynamic behavior. in the second step, the compiler will leverage the profile to do intensive optimization to generate a highly optimized executable.
